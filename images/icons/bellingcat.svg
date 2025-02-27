@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="69.759689mm"
+   height="127.6663mm"
+   viewBox="0 0 69.759689 127.6663"
+   version="1.1"
+   id="svg852"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="bellingcat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview854"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.75633418"
+     inkscape:cx="105.11227"
+     inkscape:cy="125.60585"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="3840"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs849" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-54.67493,-115.27639)">
+    <path
+       fill="#ffffff"
+       fill-rule="evenodd"
+       d="m 93.33648,150.27408 v 4.09149 c 0,16.048 -1.54323,18.55669 -12.52378,28.30771 l -6.49585,5.8241 c -7.88453,6.9289 -11.4486,14.31568 -11.4486,24.39036 0,14.78339 9.59192,23.12612 26.29669,23.12612 16.70008,0 28.14356,-11.63767 27.6758,-31.30938 h 7.57585 c 0.62341,24.54975 -14.99261,38.23821 -35.87387,38.23821 -23.50936,0 -33.86779,-13.84286 -33.86779,-29.11412 0,-15.57987 6.80936,-22.81233 16.5505,-32.09083 l 4.95267,-4.72376 c 8.65098,-8.17815 9.74115,-9.59192 9.74115,-22.49384 v -4.24612 z m -3.77805,-34.99769 c 5.33117,0 9.64683,4.4001 9.64683,9.81573 0,5.42556 -4.31566,9.83077 -9.64683,9.83077 -5.32606,0 -9.65663,-4.40521 -9.65663,-9.83077 0,-5.41563 4.33057,-9.81573 9.65663,-9.81573 z"
+       id="path21958-9"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:337.469;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:nodetypes="csccssccssccsccsssss" />
+  </g>
+</svg>
